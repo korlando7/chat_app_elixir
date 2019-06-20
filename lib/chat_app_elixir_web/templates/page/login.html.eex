@@ -1,0 +1,3 @@
+  <input id="username" type="text"/>
+  <input id="password" type="password">
+  <button id="submit-login" type="submit" onclick="loginOnClick()">Log In</button>

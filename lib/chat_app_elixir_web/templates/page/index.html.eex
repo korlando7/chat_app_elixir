@@ -1,0 +1,7 @@
+<button id="login">
+  <a href="/login">Log In</a>
+</button>
+<button id="signup">Sign Up</button>
+
+<input id="chat-input" type="text" />
+<div id="messages"></div>
